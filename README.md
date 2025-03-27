@@ -11,3 +11,15 @@
     <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-xxxxxxxxxxxxxxxx~yyyyyyyyyy"/>
+
+
+#### ios/Runner/Info.plist
+
+    <key>GADApplicationIdentifier</key>
+    <string>ca-app-pub-2489147968860162~3865941430</string>
+    <key>NSUserTrackingUsageDescription</key>
+    <string>This identifier will be used to deliver personalized ads to you and helps keep this app free.</string>
+
+#### ios/Podfile
+
+    platform :ios, '10.0'
