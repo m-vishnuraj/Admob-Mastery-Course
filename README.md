@@ -16,7 +16,7 @@
 #### ios/Runner/Info.plist
 
     <key>GADApplicationIdentifier</key>
-    <string>ca-app-pub-2489147968860162~3865941430</string>
+    <string>ca-app-pub-xxxxxxxxxxxxxxxx~yyyyyyyyyy</string>
     <key>NSUserTrackingUsageDescription</key>
     <string>This identifier will be used to deliver personalized ads to you and helps keep this app free.</string>
 
